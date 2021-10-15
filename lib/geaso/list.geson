@@ -1,0 +1,266 @@
+{
+"status": "ok",
+"totalResults": 5773,
+-"articles": [
+-{
+-"source": {
+"id": "the-verge",
+"name": "The Verge"
+},
+"author": "Andrew J. Hawkins",
+"title": "Elon Musk slams Biden as ‘not the friendliest’ after White House EV summit snub",
+"description": "Tesla CEO Elon Musk called President Joe Biden’s administration “not the friendliest” in a Code Conference interview. Tesla was not invited to a White House meeting on electric vehicles, likely because it does not use a unionized workforce.",
+"url": "https://www.theverge.com/2021/9/28/22699339/elon-musk-joe-biden-criticize-tesla-insult",
+"urlToImage": "https://cdn.vox-cdn.com/thumbor/YCTXV_SL3zF6LePeMTRklYD4RGU=/0x73:1024x609/fit-in/1200x630/cdn.vox-cdn.com/assets/3677125/biden.jpg",
+"publishedAt": "2021-09-28T22:50:21Z",
+"content": "Tesla wasnt invited to a White House meeting with automakers in August\r\nTesla and SpaceX boss Elon Musk criticized President Joe Biden as not the friendliest administration after the White House snub… [+1185 chars]"
+},
+-{
+-"source": {
+"id": "the-verge",
+"name": "The Verge"
+},
+"author": "Sean O'Kane",
+"title": "Elon Musk: ‘we probably don’t need’ NDAs for Tesla’s ‘Full Self-Driving’ beta",
+"description": "Elon Musk said at the 2021 Code Conference that he doesn’t know why his company forces non-disclosure agreements on the people who participate in Tesla’s beta test of its “Full Self-Driving” software — especially since many of those users are “just ignoring i…",
+"url": "https://www.theverge.com/2021/9/28/22699361/elon-musk-tesla-full-self-driving-beta-nda-footage",
+"urlToImage": "https://cdn.vox-cdn.com/thumbor/ed4NPWUJVHlAsjEz5NyYdHRQn14=/0x172:2400x1429/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22886111/REC_ASA3_CODE21_20210928_143813_0138.jpg",
+"publishedAt": "2021-09-28T22:46:37Z",
+"content": "People dont listen to me anyway, he says\r\nAsa Mathat\r\nTesla has been making participants in the Full Self-Driving beta test sign non-disclosure agreements, but CEO Elon Musk said Tuesday we probably … [+1187 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Slashdot.org"
+},
+"author": "feedfeeder",
+"title": "Tesla on Autopilot slammed into police cars despite flashing lights, lawsuit says",
+"description": "Officers say Tesla failed to detect four vehicles, six people, and a police dog.",
+"url": "https://slashdot.org/firehose.pl?op=view&amp;id=152760983",
+"urlToImage": null,
+"publishedAt": "2021-09-28T22:32:57Z",
+"content": "\"If you can, help others. If you can't, at least don't hurt others.\"\r\n-- the Dalai Lama"
+},
+-{
+-"source": {
+"id": null,
+"name": "CNBC"
+},
+"author": "MacKenzie Sigalos",
+"title": "Tesla CEO Elon Musk says US government should avoid regulating crypto",
+"description": "Tesla chief Elon Musk on Tuesday said the government should steer clear of trying to regulate the crypto market.",
+"url": "https://www.cnbc.com/2021/09/28/tesla-ceo-elon-musk-says-us-government-should-avoid-regulating-crypto.html",
+"urlToImage": "https://image.cnbcfm.com/api/v1/image/103684585-REC_ASA_CODE2016-20160601-210838-3937-L.jpg?v=1632865359",
+"publishedAt": "2021-09-28T22:25:59Z",
+"content": "Tesla CEO Elon Musk on Tuesday said the U.S. government should steer clear of trying to regulate the crypto market.\r\n\"It is not possible to, I think, destroy crypto, but it is possible for government… [+1948 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Slashdot.org"
+},
+"author": "feedfeeder",
+"title": "Lucid will begin delivering its Air luxury EV in late October",
+"description": "After roughly five years of work, the Lucid Air is finally close to reaching customers' garages. Lucid Motors said it has started production of the luxury EV and expects to deliver the first Dream Edition models in late October. There will only be 520 Dream u…",
+"url": "https://slashdot.org/firehose.pl?op=view&amp;id=152760029",
+"urlToImage": null,
+"publishedAt": "2021-09-28T22:13:31Z",
+"content": "After roughly five years of work, the Lucid Air is finally close to reaching customers' garages. Lucid Motors said it has started production of the luxury EV and expects to deliver the first Dream Ed… [+1415 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Forbes"
+},
+"author": "Sam Abuelsamid, Senior Contributor, \n Sam Abuelsamid, Senior Contributor\n https://www.forbes.com/sites/samabuelsamid/",
+"title": "Customer Bound Lucid Air Now Rolling Off Assembly Line",
+"description": "It's been a long, tough road but production of the Lucid Air intended for customer deliveries has begun at the company's factory in Casa Grande, Arizona",
+"url": "https://www.forbes.com/sites/samabuelsamid/2021/09/28/customer-bound-lucid-air-now-rolling-off-assembly-line/",
+"urlToImage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61539059b2a65ae35780c9ed%2F0x0.jpg",
+"publishedAt": "2021-09-28T22:03:24Z",
+"content": "Production of the Lucid Air electric sedan for customers has begun at the company's factory in Casa ... [+] Grande, Arizona\r\nLucid Motors\r\nAnyone that ever said getting into the business of producing… [+2443 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Autocar"
+},
+"author": null,
+"title": "BMW iX3",
+"description": "Comfort-conscious yet also strong and athletic, this large SUV is the incredibly bold new flagship for BMW’s family of electric cars\n\nWe’ve waited a long time for the iX. Originally previewed by the Vision iNext concept at the Paris motor show in 2018, it’s B…",
+"url": "https://www.autocar.co.uk/car-review/bmw/ix",
+"urlToImage": "https://www.autocar.co.uk/sites/autocar.co.uk/files/1-bmw-ix-xdrive-50-2021-first-drive-review-hero-front.jpg",
+"publishedAt": "2021-09-28T22:01:24Z",
+"content": "As with the exterior, the interior represents a new direction in design. Opening the frameless drivers door reveals the lightweight construction methods through swathes of unpainted carbonfibre conce… [+2326 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "CNET"
+},
+"author": "Steven Ewing",
+"title": "2022 BMW iX first drive review: A techy EV with an eye on design",
+"description": "The new BMW iX has a powerful electric powertrain and one of the coolest interiors around.",
+"url": "https://www.cnet.com/roadshow/news/2022-bmw-ix-first-drive-review/",
+"urlToImage": "https://www.cnet.com/a/img/txaOYz9-0_MXrzDH99YjXPCHIic=/1200x630/2021/09/24/af68917e-5479-4e46-979a-743383701819/ogi1-2022-bmw-ix-first-drive-025.jpg",
+"publishedAt": "2021-09-28T22:01:03Z",
+"content": "The iX should arrive at BMW dealers in early 2022.\r\nBMW\r\nThe BMW iX makes a bold first impression. From its polarizing exterior design to the holy-smokes-that's-good interior to the onslaught of new … [+13101 chars]"
+},
+-{
+-"source": {
+"id": "business-insider",
+"name": "Business Insider"
+},
+"author": "sjackson@insider.com (Sarah Jackson)",
+"title": "Elon Musk says he's sending Jeff Bezos a silver medal and a 'giant statue' of the number 2 after surpassing him again to become the world's richest person",
+"description": "Elon Musk says he'll send Jeff Bezos a silver medal and a statue of the number two after passing him to be the world's richest person, Forbes reports.",
+"url": "https://www.businessinsider.com/elon-musk-jeff-bezos-silver-medal-worlds-richest-person-2021-9",
+"urlToImage": "https://i.insider.com/608c6ff934af8d001859a627?width=1200&format=jpeg",
+"publishedAt": "2021-09-28T21:57:10Z",
+"content": "Elon Musk has taken a jab at Jeff Bezos after toppling him to become the world's richest person again.\r\nOn Monday, the Tesla and SpaceX CEO became the third person in the world to ever be worth $200 … [+1132 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Japan Today"
+},
+"author": null,
+"title": "Toyota banks on mobility technology for future growth",
+"description": "Japanese automaker Toyota is revving up acquisitions in mobility technology, adding Renovo Motors Inc, a Silicon Valley software developer, to its Woven Planet team, which is working on automated driving. The addition, announced Tuesday, follows the purchase …",
+"url": "https://japantoday.com/category/tech/toyota-banks-on-mobility-technology-for-future-growth",
+"urlToImage": null,
+"publishedAt": "2021-09-28T21:44:10Z",
+"content": "Japanese automaker Toyota is revving up acquisitions in mobility technology, adding Renovo Motors Inc, a Silicon Valley software developer, to its Woven Planet team, which is working on automated dri… [+3091 chars]"
+},
+-{
+-"source": {
+"id": "engadget",
+"name": "Engadget"
+},
+"author": "Jon Fingas",
+"title": "Lucid will begin delivering its Air luxury EV in late October",
+"description": "After roughly five years of work, the Lucid Air is finally close to reaching customers' garages. Lucid Motors said it has started production of the luxury EV and expects to deliver the first Dream Edition models in late October. There will only be 520 Dream u…",
+"url": "https://www.engadget.com/lucid-air-ev-delivery-date-214305594.html",
+"urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-09/8e192690-209d-11ec-9779-6c5dc1de838c",
+"publishedAt": "2021-09-28T21:43:05Z",
+"content": "After roughly five years of work, the Lucid Air is finally close to reaching customers' garages. Lucid Motors said it has started production of the luxury EV and expects to deliver the first Dream Ed… [+1415 chars]"
+},
+-{
+-"source": {
+"id": "the-washington-post",
+"name": "The Washington Post"
+},
+"author": "Charles Lane",
+"title": "Opinion | Elon Musk is right. Congress has no business micromanaging the automotive future. - The Washington Post",
+"description": "Opinion | Elon Musk is right. Congress has no business micromanaging the automotive future.  The Washington Post",
+"url": "https://www.washingtonpost.com/opinions/2021/09/28/elon-musk-is-right-congress-has-no-business-micromanaging-automotive-future/",
+"urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AB4C6HT5NUI6TMPTWIZ74WAR54.jpg&w=1440",
+"publishedAt": "2021-09-28T21:42:31Z",
+"content": "So it takes chutzpah for Musk to gripe that Congresss latest clean-vehicle subsidy plan treats him unfairly. Even more galling: Hes got a point.\r\nStory continues below advertisement\r\nThe House Ways a… [+4471 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Telegraph India"
+},
+"author": "Reuters",
+"title": "China under pressure to boost coal imports",
+"description": "Beijing has to ensure supplies to keep lights on, factories open and water flowing as a severe power crunch roils the northeastern industrial heartland",
+"url": "https://www.telegraphindia.com/world/china-under-pressure-to-boost-coal-imports/cid/1832647",
+"urlToImage": "https://assets.telegraphindia.com/telegraph/2020/Sep/1600898615_electricity.jpg",
+"publishedAt": "2021-09-28T21:31:10Z",
+"content": "China faces mounting pressure to ramp up coal imports and ensure supplies to keep lights on, factories open and water flowing as a severe power crunch roils the northeastern industrial heartland.\r\n W… [+2070 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Seeking Alpha"
+},
+"author": "Brian Stewart",
+"title": "Hot Stocks: EV stocks fall; ASAN, MNDY suffer profit-taking; ZM hits new low; GOGO, UNFI rally on forecasts",
+"description": "EV shares dropped. Work-at-home stocks also fell, including ASAN and MNDY. ZM set a new low. GOGO and UNFI rallied on strong forecasts.",
+"url": "https://seekingalpha.com/news/3745536-hot-stocks-ev-stocks-fall-asan-mndy-suffer-profit-taking-zm-hits-new-low-gogo-unfi-rally-on-forecasts",
+"urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1262836699/large_image_1262836699.jpg",
+"publishedAt": "2021-09-28T21:31:04Z",
+"content": "champc/iStock via Getty Images\r\n\n\n<ul>\n<li>\nA spike in Treasury yields inspired profit-taking across the technology sector on Tuesday, driving down the major averages. Electric-vehicle stocks got cau… [+5228 chars]"
+},
+-{
+-"source": {
+"id": "ars-technica",
+"name": "Ars Technica"
+},
+"author": "Jon Brodkin",
+"title": "Tesla on Autopilot slammed into police cars despite flashing lights, lawsuit says",
+"description": "Officers say Tesla failed to detect four vehicles, six people, and a police dog.",
+"url": "https://arstechnica.com/tech-policy/2021/09/tesla-on-autopilot-slammed-into-police-cars-despite-flashing-lights-lawsuit-says/",
+"urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2018/03/getty-lawsuit-760x380.jpg",
+"publishedAt": "2021-09-28T21:29:22Z",
+"content": "11 with 11 posters participating\r\nTesla has been sued by five Texas police officers who were injured when a Tesla Model X in Autopilot mode crashed into police vehicles that were stopped and had thei… [+5003 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Motley Fool"
+},
+"author": "newsfeedback@fool.com (Rich Smith)",
+"title": "Why AMD Stock Sank 6% Today",
+"description": "AMD CEO predicts \"less severe\" chip shortage in less than a year.",
+"url": "https://www.fool.com/investing/2021/09/28/why-amd-stock-sank-6-today/",
+"urlToImage": "https://g.foolcdn.com/editorial/images/644723/white-arrow-declining-sharply-atop-a-stock-tickertape-display-bathed-in-red.jpg",
+"publishedAt": "2021-09-28T21:21:00Z",
+"content": "What happened\r\nThe duration of the global semiconductor shortage just keeps getting shorter -- and with it, investor confidence in semiconductor stocks like Advanced Micro Devices(NASDAQ:AMD), which … [+2189 chars]"
+},
+-{
+-"source": {
+"id": "techradar",
+"name": "TechRadar"
+},
+"author": "Chris Teague",
+"title": "Tesla Cyberquad name shows up online, but it's not what you think it is",
+"description": "For those hoping for a fully electric quadbike to go with the Cybertruck, you may be disappointed.",
+"url": "https://www.techradar.com/news/tesla-cyberquad-name-shows-up-online-but-its-not-what-you-think-it-is",
+"urlToImage": "https://cdn.mos.cms.futurecdn.net/CVhGBjWRjxA3BP3r2ucNGP-1200-80.jpg",
+"publishedAt": "2021-09-28T21:14:44Z",
+"content": "Tesla can be a mysterious company at times, but when it comes to products and product announcements, it doesn't keep many secrets. \r\nIt's more likely to see a far-future product than it is for one to… [+1690 chars]"
+},
+-{
+-"source": {
+"id": "the-verge",
+"name": "The Verge"
+},
+"author": "Dieter Bohn",
+"title": "Elon Musk, live at the Code Conference",
+"description": "Elon Musk takes the stage in an interview with Kara Swisher. As always with Musk, there will be more than enough to talk about. There’s the latest from Tesla, self-driving, and where Cybertruck development is. Also, SpaceX, space tourism, space internet, cryp…",
+"url": "https://www.theverge.com/2021/9/28/22698563/elon-musk-code-conference-liveblog",
+"urlToImage": "https://cdn.vox-cdn.com/thumbor/mdRZn08sPYrPUsTndi5HM36LQNI=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19485115/acastro_191211_elon_decade_0001.jpg",
+"publishedAt": "2021-09-28T21:14:05Z",
+"content": "Were at the 2021 Code Conference here in Beverly Hills, California and very soon, Elon Musk will take the stage in an interview with Kara Swisher. As always with Musk, there will be more than enough … [+684 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Slashdot.org"
+},
+"author": "feedfeeder",
+"title": "Tesla asks owners to share fewer clips of ‘Full Self-Driving’ beta mistakes - The Verge",
+"description": "Tesla asks owners to share fewer clips of ‘Full Self-Driving’ beta mistakesThe Verge Tesla's 'full self-driving' could be days away. Here's what you need to know.CNN Elon Musk reclaims top spot as world's richest personFox Business Tesla set to post strong de…",
+"url": "https://slashdot.org/firehose.pl?op=view&amp;id=152757631",
+"urlToImage": null,
+"publishedAt": "2021-09-28T21:13:37Z",
+"content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+},
+-{
+-"source": {
+"id": null,
+"name": "CNBC"
+},
+"author": "Patti Domm",
+"title": "Stocks could slide further as interest rates rise and Big Tech drags the market",
+"description": "A sharp jump in interest rates over the last several sessions stung the market, particularly the Big Tech and growth names.",
+"url": "https://www.cnbc.com/2021/09/28/stocks-could-slide-further-as-rates-rise-big-tech-drags-market.html",
+"urlToImage": "https://image.cnbcfm.com/api/v1/image/106912256-1626460514439Blend-OB-Photo-210716-PRESS-15-jpg?v=1626460662",
+"publishedAt": "2021-09-28T21:04:49Z",
+"content": "Strategists see more selling ahead after stocks sold off Tuesday, led downward by tech and large cap growth names.\r\nA sharp jump in interest rates over the last several sessions stung the market, par… [+3108 chars]"
+}
+]
+}
